@@ -1,2 +1,3 @@
 # Ignore API keys and sensitive files
 api_key.py
+__pycache__/
